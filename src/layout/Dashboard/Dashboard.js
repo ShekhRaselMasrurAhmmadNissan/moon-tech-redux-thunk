@@ -9,7 +9,7 @@ const Dashboard = () => {
       <div className='col-span-10 w-full bg-gray-100 rounded-lg'>
         <Outlet />
       </div>
-    </div>
+    </div> 
   );
 };
 
